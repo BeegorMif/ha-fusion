@@ -14,3 +14,4 @@ src/lib/Playground
 /data
 /data/configuration.yaml
 /data/youtube_credentials.json
+/data/version.json
